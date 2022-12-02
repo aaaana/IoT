@@ -11,14 +11,15 @@
 ```
 $ mkdir ml 
 $ cd ml/ 
-Install node.js and npm:
+```
+* Install node.js and npm:
+```
 $ sudo apt update 
 $ sudo apt install nodejs
 $ node –v
 $ sudo apt install npm 
 $ npm install aws-sdk –save
 $ npm init
-
 ```
 ### We will use the Polly object to access AWS Polly from Node.js. 
 * You can read more information about the [Polly object] on (https://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS/Polly.html) . We pass our AWS access key ID to perform AWS authentication.
@@ -55,7 +56,6 @@ $ node aws-polly-demo.js
 $ npm install speaker
 
 ```
- 
 * if get some errors installing package – [info from](https://github.com/TooTallNate/node-speaker), try:
 ```
 $ sudo apt-get install libasound2-dev
@@ -67,7 +67,6 @@ $ npm install speaker
 
 ### Create the sensor-speaker.js file 
 [Code source](https://hc.labnet.sfbu.edu/~henry/npu/classes//iot/learning_aws_iot/slide/Developing_a_program_for_Amazon_Polly.html)
-$ npm install speaker
 * Create and modify sensor-speaker.js file 
 ```
 // Create a Polly client 
