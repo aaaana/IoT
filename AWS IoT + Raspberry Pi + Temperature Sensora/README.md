@@ -1,23 +1,4 @@
 # Using Amazon Polly to make your sensor speak
-4.	Project: Chapter 7: Using Amazon Polly to make your sensor speak
-o	Step 1: Prepare Raspberry Pi emulator + VirtualBox + Sense HAT Emulator
-o	References
-	DHT22 for Raspberry Pi
-o	Adafruit_Python_DHT
-	Raspberry Pi Tutorial: How to Use the DHT-22
-o	Step 2: Continue the proces of Making your sensor speak
-o	Step 3: Update your portfolio about this project
-o	Step 4: Submit a PDF file document showing the procedure as part of the homework answers.
-o	Step 5: Submit the URL of your GitHub webpage as part of the homework answers.
-	GitHub directory structure
-	
-	IoT
-	    AWS IoT + Raspberry Pi Emulator + Text to Speech
-    
-o	References
-o	2022 Fall
-
-
 ## Access the AWS IAM dashboard on [aws iam](http://console.aws.amazon.com/iam/)
  
 ### Now you can configure your user to give permission to access Amazon Polly. 
@@ -114,6 +95,8 @@ OutputFormat: 'pcm',
 }
 ```
 * Listen the text input!
-
+## References:
+[aws poly](https://docs.aws.amazon.com/polly/latest/dg/API_SynthesizeSpeech.html)
+[Developing a program for Amazon Polly](https://hc.labnet.sfbu.edu/~henry/npu/classes//iot/learning_aws_iot/slide/Developing_a_program_for_Amazon_Polly.html)
 
 
