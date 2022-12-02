@@ -95,7 +95,7 @@ OutputFormat: 'pcm',
 ```
 * Listen the text input!
 ## References:
-[aws poly](https://docs.aws.amazon.com/polly/latest/dg/API_SynthesizeSpeech.html)
-[Developing a program for Amazon Polly](https://hc.labnet.sfbu.edu/~henry/npu/classes//iot/learning_aws_iot/slide/Developing_a_program_for_Amazon_Polly.html)
+* [aws poly](https://docs.aws.amazon.com/polly/latest/dg/API_SynthesizeSpeech.html)
+* [Developing a program for Amazon Polly](https://hc.labnet.sfbu.edu/~henry/npu/classes//iot/learning_aws_iot/slide/Developing_a_program_for_Amazon_Polly.html)
 
 
