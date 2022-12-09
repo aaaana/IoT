@@ -12,7 +12,7 @@
 ### Open VLC Media Player
 ## Step 2: Facial Recognition on Raspberry Pi with AWS Rekognition
 ### AWS Rekognition setup
-## Step 3.Test 
+## Step 3: Test 
 * Prepare:
 ```
 $ pip install boto3
