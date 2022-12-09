@@ -3,7 +3,7 @@
 ## Step 1: Test Laptop Camera with Raspberry Pi Desktop on VirtualBox
  
 ### Install the VirtualBox Extension Pack  
-* [Download from](https://www.virtualbox.org/wiki/Downloads)
+* [Download link](https://www.virtualbox.org/wiki/Downloads)
 * Select attach existing policies and type “polly” in search area, select and attach
 * User created successfully, download the .csv file for records
 * copy the AWS access key ID from your IAM user. You can find it under the Security credentials tab. You can create an AWS access key if you don't have it. This AWS access key ID will be used in our program.
