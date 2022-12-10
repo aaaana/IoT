@@ -18,7 +18,8 @@ client.html
 ```
 $ node websocket_ledbutton.js
 ```
-Open the client.html file  or Open the website in a browser using http://[RaspberryPi_IP]:8080/: and LED light blinking 
+Open the client.html file  or Open the website in a browser using http://[RaspberryPi_IP]:8080/: and press the button.
+* The light is on when pressing the button
 
 # 5. End the program 
 Ctrl+c
