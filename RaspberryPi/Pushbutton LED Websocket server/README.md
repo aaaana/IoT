@@ -10,7 +10,7 @@ $ npm  install pigpio
 
 ```
 # 2 .Connecting Raspberry Pi and LED light, button
-[Reference](Node.js Raspberry Pi LED and Pushbutton (w3schools.com))
+[Reference](https://www.w3schools.com/nodejs/nodejs_raspberrypi_led_pushbutton.asp)
 # 3. Prepare Code 
 websocket_ledbutton.js
 client.html
