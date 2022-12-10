@@ -20,7 +20,7 @@ $ node websocket_blink1.js
 ```
 Open the client.html file  or Open the website in a browser using http://[RaspberryPi_IP]:8080/: and press the button.
 * The light is blinking when pressing the button
-*[Result](https://youtube.com/shorts/8Aa-uHX-Dw0?feature=share)
+* [Result](https://youtube.com/shorts/8Aa-uHX-Dw0?feature=share)
 
 # 5. End the program 
 Ctrl+c
